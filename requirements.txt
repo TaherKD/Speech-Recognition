@@ -1,0 +1,4 @@
+SpeechRecognition
+pydub
+Flask
+google-cloud-speech
